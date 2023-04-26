@@ -71,9 +71,11 @@ ZSH_THEME="robbyrussell"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+  brew
   colored-man-pages
   git
   iterm2
+  macos
   thefuck
 )
 
