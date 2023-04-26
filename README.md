@@ -121,9 +121,9 @@ clamscan -i -r --remove=yes /
 %%unsure on all these steps with brew cu doing some of the lift%%
 
 ```
-brew cu --include-mas
-
 brew update
+
+brew cu --include-mas
 
 brew upgrade
 
